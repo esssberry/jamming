@@ -1,5 +1,5 @@
 const clientId = '07bd5d1c73ff44cfa51a1566b333a14e' ;
-const redirectUri = 'https://jam-boi.netlify.app';
+const redirectUri = 'https://jam-boi.netlify.app/callback';
 let accessToken;
 
 const Spotify = {
